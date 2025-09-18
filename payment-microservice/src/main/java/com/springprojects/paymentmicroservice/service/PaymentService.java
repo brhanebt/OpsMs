@@ -13,7 +13,7 @@ import java.util.List;
 
 @Service
 @Slf4j
-public class PaymentServce {
+public class PaymentService {
 
     public List<Payment> getAllPayments(){
         List<Payment> payments = new ArrayList<>();
