@@ -1,0 +1,12 @@
+SHIP001,2024-01-15,New York,Los Angeles,PENDING,Electronics,15.5,John Doe,jane.smith@logistics.com
+SHIP002,2024-01-16,Chicago,Miami,IN_TRANSIT,Clothing,8.2,Alice Johnson,bob.wilson@shipping.com
+SHIP003,2024-01-17,Seattle,Denver,DELIVERED,Books,3.7,Mike Brown,carol.davis@express.com
+SHIP004,2024-01-18,Boston,Phoenix,PENDING,Furniture,45.8,Sarah Wilson,david.lee@freight.com
+SHIP005,2024-01-19,Atlanta,Portland,IN_TRANSIT,Food,12.3,Tom Anderson,emma.taylor@cargo.com
+SHIP006,2024-01-20,Dallas,San Francisco,DELIVERED,Medical Supplies,6.9,Lisa Garcia,frank.miller@medical.com
+SHIP007,2024-01-21,Houston,Philadelphia,CANCELLED,Automotive Parts,28.4,Robert Martinez,grace.jones@auto.com
+SHIP008,2024-01-22,Detroit,Las Vegas,PENDING,Toys,4.1,Jennifer Davis,henry.brown@toys.com
+SHIP009,2024-01-23,Minneapolis,Nashville,IN_TRANSIT,Sports Equipment,19.6,Kevin Rodriguez,iris.wilson@sports.com
+SHIP010,2024-01-24,Orlando,Salt Lake City,DELIVERED,Home Goods,11.8,Amanda Thompson,jack.davis@home.com
+SHIP011,2024-01-25,Cleveland,Charlotte,PENDING,Office Supplies,7.5,Steven White,steven.white@co.com
+SHIP012,2024-01-26,Columbus,Indianapolis,IN_TRANSIT,Garden Supplies,9.3,Karen Harris,karen@garden.com

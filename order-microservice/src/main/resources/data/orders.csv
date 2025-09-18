@@ -1,0 +1,16 @@
+id,product,quantity,price,status
+1,Laptop,2,999.99,PENDING
+2,Mouse,5,25.50,COMPLETED
+3,Keyboard,3,75.00,SHIPPED
+4,Monitor,1,299.99,PENDING
+5,USB Cable,10,5.99,COMPLETED
+6,Webcam,4,89.99,SHIPPED
+7,Headphones,2,199.99,PENDING
+8,Speakers,1,149.99,COMPLETED
+9,External Hard Drive,3,120.00,SHIPPED
+10,Smartphone,1,699.99,PENDING
+11,Tablet,2,329.99,COMPLETED
+12,Charger,6,19.99,SHIPPED
+13,Desk Lamp,2,45.00,PENDING
+14,Office Chair,1,150.00,COMPLETED
+15,Notebook,12,3.50,SHIPPED
